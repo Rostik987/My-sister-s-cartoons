@@ -1,0 +1,18 @@
+.main-title{
+color: rgb(214, 25, 129);
+font-style: italic;
+}
+
+.game-title{
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(209, 190, 17);
+   }
+
+   .game-item{
+    width: 500px; ;
+    height: 400px;
+    background-color: yellow;
+    border: 5px solid blue;
+    padding-left: 20px;
+}
